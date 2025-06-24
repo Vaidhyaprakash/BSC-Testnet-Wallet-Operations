@@ -1,4 +1,4 @@
-# �� BSC Testnet Wallet - Web Interface
+# BSC Testnet Wallet - Web Interface
 
 A modern, user-friendly web application for BSC Testnet wallet operations built with Streamlit. Generate wallets, check balances, and send BNB/tokens with an intuitive graphical interface.
 
