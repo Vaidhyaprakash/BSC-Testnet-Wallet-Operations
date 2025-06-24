@@ -127,7 +127,7 @@ Your new wallet needs testnet BNB for transactions:
 ## 🏗️ Project Structure
 
 ```
-YatriAssignment/
+BSC-Testnet-Wallet-Operations/
 ├── streamlit_app.py           # Main Streamlit web application
 ├── bsc_wallet/                # Core wallet functionality
 │   ├── __init__.py           # Package initialization  
