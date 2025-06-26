@@ -2,20 +2,6 @@
 
 A modern, user-friendly web application for BSC Testnet wallet operations built with Streamlit. Generate wallets, check balances, and send BNB/tokens with an intuitive graphical interface.
 
-✅ Progress Overview
-🔐 Part 1: Wallet Generation – ✅ Done
- * Successfully implemented 12-word (128-bit) and 24-word (256-bit) mnemonic-based wallet generation.
-
-💸 Part 2: Sending BNB on BSC Testnet – ✅ Done
- * Faced issues receiving test BNB from public faucets (they attempted to send to BSC Mainnet instead of Testnet).
-
- * Workaround: Successfully tested transfers using tBNB manually sent by Rishabh to the generated wallet.
-
-🪙 Part 3: Sending BEP-20 Token (ERC-20) – ✅ Done
- * Faucet tokens were not transferable or unavailable (Same as BNB)
-
- * Deployed a custom BEP-20 token (IVP) on the BSC Testnet, minted to the generated wallet, and verified successful transfers.
-
  ## 📦 Installation
 
 ### Prerequisites
